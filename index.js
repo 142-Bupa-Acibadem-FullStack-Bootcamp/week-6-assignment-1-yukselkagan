@@ -27,6 +27,7 @@ let nums = [3,2,4];
 let target = 6; 
 */
 
+
 /* 
 let nums = [3,3];
 let target = 6;
